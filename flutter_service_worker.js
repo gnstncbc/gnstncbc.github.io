@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b0612e6e04b323a18419d656f4c58b44",
+  "assets/AssetManifest.json": "5c7f35e891f02471f09a675d9484bb34",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/images/amfibol/cift/amfibol_cift%2520(1).jpg": "80bc429948ec41d46ebcb62f92302a7a",
@@ -151,6 +151,8 @@ const RESOURCES = {
 "assets/images/amfibol/tek/amfibol_tek%2520(8).jpg": "a469ad5f1a2dca4820949a7051ff71b5",
 "assets/images/amfibol/tek/amfibol_tek%2520(9).jpg": "aaaf2ba40d805eb2036978d1f76e2c52",
 "assets/images/Amfibol_icon.jpg": "22f4b31f728fedf4cdbada76380f05fc",
+"assets/images/anasayfa_background.jpg": "b235f7d215f2062c1ec4656679fc0fb0",
+"assets/images/anasayfa_background_2.jpg": "e87a727487b892e44207bc9b6b6171c8",
 "assets/images/andaluzit_bir/cift/andaluzit_bir_cift%2520(1).jpg": "3971a8ef89b691c61e72c0651263ebbb",
 "assets/images/andaluzit_bir/cift/andaluzit_bir_cift%2520(10).jpg": "a7165a478046313f615dc67495a1d9a1",
 "assets/images/andaluzit_bir/cift/andaluzit_bir_cift%2520(11).jpg": "71f65075f60469287646ed0202d7082f",
@@ -449,6 +451,7 @@ const RESOURCES = {
 "assets/images/andaluzit_iki/tek/andaluzit_iki_tek%2520(8).jpg": "c1b4c63a3d318414142f73ee1474a32e",
 "assets/images/andaluzit_iki/tek/andaluzit_iki_tek%2520(9).jpg": "4781677bf58a645ef9b54d7e6e95c1ba",
 "assets/images/andaluzit_iki_icon.jpg": "90a78b70315cb23b469d5227872343df",
+"assets/images/arkaplan_deneme.png": "efefc676633d28073e4ebdda31af4c05",
 "assets/images/biyotit/cift/biyotit_cift%2520(1).jpg": "0da38fc196156d722037f80b089818ee",
 "assets/images/biyotit/cift/biyotit_cift%2520(10).jpg": "438ecd43afc1d7ddcab9f704732a05b5",
 "assets/images/biyotit/cift/biyotit_cift%2520(11).jpg": "27256c8a6f759d9668a29580c0603d89",
@@ -3939,14 +3942,14 @@ const RESOURCES = {
 "assets/images/vollastonit_icon.jpg": "425c02f14e0189ed5bbe8f9d990bd83b",
 "assets/images/whale.png": "e059537f8144be5fe08213f262cdb28f",
 "assets/images/zebra.png": "e59ee774534668383f2d97b28c33a44f",
-"assets/NOTICES": "b0d7a1e0c06c03a24f321b4bda7fb30e",
+"assets/NOTICES": "3a3fe6b7c4ae660680d59c2f007c9851",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "07b69b0d5d826be0680be7c18f93572d",
-"/": "07b69b0d5d826be0680be7c18f93572d",
-"main.dart.js": "350620994aba6dd1f245af363510b63d",
+"index.html": "bf4339cf8695fed4ea3ad93e9e079992",
+"/": "bf4339cf8695fed4ea3ad93e9e079992",
+"main.dart.js": "b0bd9b8bb1d6f2fd55b7c0e61cc6a877",
 "manifest.json": "52391df2ec704411e20b9c1de7f6c6fe",
 "version.json": "7a3c1b56a73de27f47d17ba5b2d902e1"
 };
