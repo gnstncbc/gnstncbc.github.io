@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "5c7f35e891f02471f09a675d9484bb34",
+  "assets/AssetManifest.json": "73fc353bdde07e77b31aab202eef3023",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/images/amfibol/cift/amfibol_cift%2520(1).jpg": "80bc429948ec41d46ebcb62f92302a7a",
@@ -153,6 +153,7 @@ const RESOURCES = {
 "assets/images/Amfibol_icon.jpg": "22f4b31f728fedf4cdbada76380f05fc",
 "assets/images/anasayfa_background.jpg": "b235f7d215f2062c1ec4656679fc0fb0",
 "assets/images/anasayfa_background_2.jpg": "e87a727487b892e44207bc9b6b6171c8",
+"assets/images/anasayfa_background_auto_x1_auto_x2.jpg": "a0581c87944fedc9303b05a3d251ef15",
 "assets/images/andaluzit_bir/cift/andaluzit_bir_cift%2520(1).jpg": "3971a8ef89b691c61e72c0651263ebbb",
 "assets/images/andaluzit_bir/cift/andaluzit_bir_cift%2520(10).jpg": "a7165a478046313f615dc67495a1d9a1",
 "assets/images/andaluzit_bir/cift/andaluzit_bir_cift%2520(11).jpg": "71f65075f60469287646ed0202d7082f",
@@ -888,6 +889,7 @@ const RESOURCES = {
 "assets/images/glokofan/tek/glokofan_tek%2520(8).jpg": "e40ded551f05f78cf1fbcc5b9c824b7a",
 "assets/images/glokofan/tek/glokofan_tek%2520(9).jpg": "5b2e6dc7f7cdfbdb3329cc1cf5906c29",
 "assets/images/glokofan_icon.jpg": "64c6e0c879584418f6e4d15759ddba08",
+"assets/images/google-play-badge.png": "4fa7a0f566d0da230ba059c722f2e4da",
 "assets/images/granat/cift/granatcift%2520(1).jpg": "5916f08473371e1c91a5f8255d220365",
 "assets/images/granat/cift/granatcift%2520(10).jpg": "03422d7bc8c4210a26e709040d64f84e",
 "assets/images/granat/cift/granatcift%2520(11).jpg": "0cf2c78d8c9e9a165a8de965a5b657a9",
@@ -3947,9 +3949,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "124c2efc18df226297d93ced80eb94ea",
-"/": "124c2efc18df226297d93ced80eb94ea",
-"main.dart.js": "f5cf65f9fb26036550945fc18d47a29a",
+"index.html": "8b07a2374b3e6c0324785ae51a5e38b7",
+"/": "8b07a2374b3e6c0324785ae51a5e38b7",
+"main.dart.js": "8aacf71fab54902298b533987009b984",
 "manifest.json": "52391df2ec704411e20b9c1de7f6c6fe",
 "version.json": "7a3c1b56a73de27f47d17ba5b2d902e1"
 };
